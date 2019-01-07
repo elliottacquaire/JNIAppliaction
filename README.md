@@ -1,0 +1,2 @@
+# JNIAppliaction
+jni
